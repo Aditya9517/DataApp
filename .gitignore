@@ -169,6 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*.p8
+*.pub
+*.pem
 
 
 .DS_Store
